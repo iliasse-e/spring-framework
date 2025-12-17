@@ -1,4 +1,4 @@
-# Spring
+# Spring Framework / Spring Boot
 
 [Spring boot](https://github.com/iliasse-e/e-banking-backend)
 
