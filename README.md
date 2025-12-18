@@ -124,7 +124,7 @@ C'est le pincipe selon lequel le flot d'exécution d'un logiciel n'est plus sous
 
 ### Conteneur d'IoC
 
-Pour pouvoir être mise en pratique, l’inversion de contrôle implique l’existence d’un composant supplémentaire. Dans l’exemple que nous avons pris précédemment, un code tiers doit être responsable de créer une instance des classes ReservationSalleDao et ReservationSalleService. Il faut également que ce composant soit capable de réaliser l’injection de l’objet de type ReservationSalleDao.
+Pour pouvoir être mise en pratique, l’inversion de contrôle implique l’existence d’un composant supplémentaire. Dans l’exemple que nous avons pris précédemment, un code tiers doit être responsable de créer une instance des classes `ReservationSalleDao` et `ReservationSalleService`. Il faut également que ce composant soit capable de réaliser l’injection de l’objet de type `ReservationSalleDao`.
 
 La construction des objets de notre application va être déléguée à ce composant que l’on appelle un conteneur IoC (IoC container), qui va gérer leur cycle de vie.
 **Le Spring Framework est avant tout un conteneur IoC**.
