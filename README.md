@@ -120,6 +120,17 @@ Mais elle ne résout pas complètement le problème puisque nous imaginons qu’
 
 ### L’inversion de contrôle
 
+C'est le pincipe selon lequel le flot d'exécution d'un logiciel n'est plus sous le contrôle direct de l'application elle-même (le code du developpeur) mais du framework qui prend le contrôle. Et spring fait cela à partir du conteneur IoC.
+
+### Conteneur d'IoC
+
+Pour pouvoir être mise en pratique, l’inversion de contrôle implique l’existence d’un composant supplémentaire. Dans l’exemple que nous avons pris précédemment, un code tiers doit être responsable de créer une instance des classes ReservationSalleDao et ReservationSalleService. Il faut également que ce composant soit capable de réaliser l’injection de l’objet de type ReservationSalleDao.
+
+La construction des objets de notre application va être déléguée à ce composant que l’on appelle un conteneur IoC (IoC container), qui va gérer leur cycle de vie.
+**Le Spring Framework est avant tout un conteneur IoC**.
+
+Comme son principe reste général, il va être possible d’utiliser le Spring Framework pour des types d’application très divers. Il faut simplement pouvoir laisser au Spring Framework la possibilité d’initialiser l’application au lancement en créant le conteneur IoC. Dans la terminologie du Spring Framework, le conteneur IoC est constitué d’un ou de plusieurs contextes d’application.
+
 ```java
 ```
 
