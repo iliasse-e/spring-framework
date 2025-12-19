@@ -131,11 +131,9 @@ La construction des objets de notre application va être déléguée à ce compo
 
 Comme son principe reste général, il va être possible d’utiliser le Spring Framework pour des types d’application très divers. Il faut simplement pouvoir laisser au Spring Framework la possibilité d’initialiser l’application au lancement en créant le conteneur IoC. Dans la terminologie du Spring Framework, le conteneur IoC est constitué d’un ou de plusieurs contextes d’application.
 
-```java
-```
+## Contexte d'application
 
-```java
-```
+[Contexte d'application](https://github.com/iliasse-e/application-context)
 
 ## Repositories
 
