@@ -137,6 +137,13 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 
 ## Déclaration par annotations
 
+##
+## Spring web MVC
+
+##
+## Spring et accès aux BDD
+
+##
 ## Repositories
 
 [Spring boot](https://github.com/iliasse-e/e-banking-backend)
