@@ -137,6 +137,10 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 
 ## Déclaration par annotations
 
+## Configurer une application Spring
+
+## Spring AOP : programmation orientée aspect
+
 ##
 ## Spring web MVC
 
