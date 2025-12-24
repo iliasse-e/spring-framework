@@ -137,6 +137,8 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 
 ## Déclaration par annotations
 
+[Annotation Spring](https://github.com/iliasse-e/spring-annotation)
+
 ## Configurer une application Spring
 
 ## Spring AOP : programmation orientée aspect
