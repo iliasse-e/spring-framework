@@ -135,6 +135,8 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 
 [Contexte d'application](https://github.com/iliasse-e/application-context)
 
+## Déclaration par annotations
+
 ## Repositories
 
 [Spring boot](https://github.com/iliasse-e/e-banking-backend)
