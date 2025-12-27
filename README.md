@@ -143,6 +143,8 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 
 ## Configurer une application Spring
 
+[Configurer app Spring](https://github.com/iliasse-e/spring-framework-configuration)
+
 ## Spring AOP : programmation orientée aspect
 
 ##
