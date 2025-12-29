@@ -147,6 +147,8 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 
 ## Spring AOP : programmation orientée aspect
 
+[Spring AOP : programmation orientée aspect](https://github.com/iliasse-e/spring-aop)
+
 ##
 ## Spring web MVC
 
