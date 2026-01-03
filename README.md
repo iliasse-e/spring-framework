@@ -152,6 +152,10 @@ Comme son principe reste général, il va être possible d’utiliser le Spring 
 ##
 ## Spring web MVC
 
+[Spring Web MVC](https://github.com/iliasse-e/spring-web-mvc)
+
+[Les Web API avec Spring Web MVC](https://github.com/iliasse-e/spring-mvc-web-api)
+
 ##
 ## Spring et accès aux BDD
 
